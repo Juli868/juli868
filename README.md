@@ -1,12 +1,12 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**Juli868/juli868** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Julias based in Kigali/Rwanda. I am a software developer upbringing my skills regularly. I really like coding. I am a great problem solver, with a passion to make better anything I work on.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on ALx
+- 🌱 I’m currently learning Python programming
+<!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
