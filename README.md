@@ -4,8 +4,10 @@ I'm Julias based in Kigali/Rwanda. I am a software developer upbringing my skill
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ALx
+- 🔭 I’m currently a student of ALX
 - 🌱 I’m currently learning Python programming
+- 🌱 I’m currently learning Javascript programming
+- 📫 How to reach me: mail:bugiju@gmail.com
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
