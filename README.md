@@ -1,6 +1,6 @@
 Hi there 👋
 
-I'm Julias based in Kigali/Rwanda. I am a software developer upbringing my skills regularly. I really like coding. I am a great problem solver, with a passion to make better anything I work on.
+I'm Julias based in Kigali/Rwanda. I am a software developer upbringing my skills regularly. I really like coding. I am a great problem solver, with a passion to make anything I work on better.
 
 Here are some ideas to get you started:
 
